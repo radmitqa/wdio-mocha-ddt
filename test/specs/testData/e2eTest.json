@@ -1,0 +1,16 @@
+[
+
+{
+    "products": ["iphone X", "Blackberry"]
+},
+{
+    "products": ["Nokia Edge", "Samsung Note 8"]
+},
+{
+    "products": ["Nokia Edge", "Blackberry"]
+},
+{
+    "products": ["Samsung Note 8", "Blackberry"]
+}
+
+]

@@ -1,0 +1,23 @@
+{
+    "name": "webdriverio-tests",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "@wdio/allure-reporter": "^7.20.3",
+        "@wdio/cli": "^7.20.5",
+        "@wdio/local-runner": "^7.20.5",
+        "@wdio/mocha-framework": "^7.20.3",
+        "@wdio/selenium-standalone-service": "^7.20.3",
+        "@wdio/spec-reporter": "^7.20.3"
+    },
+    "scripts": {
+        "wdio": "wdio run wdio.conf.js",
+        "CreditCardTest": "npx wdio run wdio.conf.js --suite creditCard",
+        "UATRegressionTest": "npx wdio run wdio.uat.conf.js",
+        "GenerateReport": "allure generate allure-results --clean && allure open"
+
+    },
+    "dependencies": {
+        "chai": "^4.3.6"
+    }
+}

@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 16 11:57:14 CEST 2022","Sat Jul 16 11:57:17 CEST 2022","2933","","eCommerce Application","","eCommerce Application","Login Fail Page","Login Fail Page",""
+"passed","Sat Jul 16 11:56:19 CEST 2022","Sat Jul 16 11:57:14 CEST 2022","54506","","eCommerce Application","","eCommerce Application","End To End Test","End To End Test",""
+"passed","Sat Jul 16 11:56:19 CEST 2022","Sat Jul 16 11:56:45 CEST 2022","26084","","Ecommerce Application","","Ecommerce Application","End to End Test","End to End Test",""
+"passed","Sat Jul 16 11:56:19 CEST 2022","Sat Jul 16 11:56:34 CEST 2022","14322","","Ecommerce application","","Ecommerce application","Valid credentials login","Valid credentials login",""
+"skipped","Sat Jul 16 11:56:19 CEST 2022","Sat Jul 16 11:56:19 CEST 2022","0","","Ecommerce application","","Ecommerce application","Invalid credentials login","Invalid credentials login",""
+"passed","Sat Jul 16 11:56:19 CEST 2022","Sat Jul 16 11:56:42 CEST 2022","22396","","UI COntrols Test Suite","","UI COntrols Test Suite","UI Controls","UI Controls",""
